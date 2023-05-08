@@ -1,0 +1,34 @@
+{
+    "blogs": [
+      {
+        "title": "A website",
+        "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "author": "Sharon",
+        "id": 3
+      },
+      {
+        "title": "mmmm",
+        "body": "nmkm",
+        "author": "mario",
+        "id": 4
+      },
+      {
+        "title": "ndcjd",
+        "body": "cnjsx j",
+        "author": "mario",
+        "id": 5
+      },
+      {
+        "title": "My journey to Canada",
+        "body": "I will be in canada soon! watch out",
+        "author": "Oghor Okolo",
+        "id": 6
+      },
+      {
+        "title": "army",
+        "body": "i am in the us army",
+        "author": "peter okolo",
+        "id": 7
+      }
+    ]
+  }
